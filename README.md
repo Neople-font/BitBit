@@ -32,8 +32,10 @@ Bit Bit is a display typeface that charmingly captures the feel of chunky pixels
 
 비트비트체(Bit Bit)는 네오플(NEOPLE INC.)이 제작하였으며, SIL Open Font License (OFL) Version 1.1에 따라 배포됩니다.
 본 폰트는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며, 상업적 목적으로도 자유롭게 사용, 수정, 재배포할 수 있습니다.
-라이선스 전문은 OFL.txt 파일에서 확인하실 수 있습니다.
+라이선스 전문은 [OFL.txt](OFL.txt) 파일에서 확인하실 수 있습니다.
 
 Bit Bit was created by NEOPLE INC. and is released under the SIL Open Font License, Version 1.1.
 This Font Software is provided free of charge to all users, including individuals and corporations, and can be freely used, modified, and redistributed for commercial purposes.
-The full license text is available in the OFL.txt file.
+The full license text is available in the [OFL.txt](OFL.txt) file.
+
+
