@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uACFB" format="2">
+  <advance width="800"/>
+  <unicode hex="ACFB"/>
+  <outline>
+    <contour>
+      <point x="535" y="106" type="line"/>
+      <point x="558" y="106" type="line"/>
+      <point x="558" y="121" type="line"/>
+      <point x="535" y="121" type="line"/>
+      <point x="535" y="133" type="line"/>
+      <point x="263" y="133" type="line"/>
+      <point x="263" y="121" type="line"/>
+      <point x="239" y="121" type="line"/>
+      <point x="239" y="106" type="line"/>
+      <point x="263" y="106" type="line"/>
+      <point x="263" y="95" type="line"/>
+      <point x="535" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="702" y="750" type="line"/>
+      <point x="702" y="717" type="line"/>
+      <point x="735" y="717" type="line"/>
+      <point x="735" y="540" type="line"/>
+      <point x="702" y="540" type="line"/>
+      <point x="702" y="507" type="line"/>
+      <point x="589" y="507" type="line"/>
+      <point x="589" y="540" type="line"/>
+      <point x="556" y="540" type="line"/>
+      <point x="556" y="606" type="line"/>
+      <point x="94" y="606" type="line"/>
+      <point x="94" y="639" type="line"/>
+      <point x="61" y="639" type="line"/>
+      <point x="61" y="717" type="line"/>
+      <point x="94" y="717" type="line"/>
+      <point x="94" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="740" y="465" type="line"/>
+      <point x="740" y="437" type="line"/>
+      <point x="768" y="437" type="line"/>
+      <point x="768" y="360" type="line"/>
+      <point x="740" y="360" type="line"/>
+      <point x="740" y="332" type="line"/>
+      <point x="488" y="332" type="line"/>
+      <point x="488" y="297" type="line"/>
+      <point x="720" y="297" type="line"/>
+      <point x="720" y="268" type="line"/>
+      <point x="748" y="268" type="line"/>
+      <point x="748" y="211" type="line"/>
+      <point x="720" y="211" type="line"/>
+      <point x="720" y="184" type="line"/>
+      <point x="682" y="184" type="line"/>
+      <point x="682" y="162" type="line"/>
+      <point x="711" y="162" type="line"/>
+      <point x="711" y="138" type="line"/>
+      <point x="733" y="138" type="line"/>
+      <point x="733" y="70" type="line"/>
+      <point x="711" y="70" type="line"/>
+      <point x="711" y="46" type="line"/>
+      <point x="682" y="46" type="line"/>
+      <point x="682" y="20" type="line"/>
+      <point x="653" y="20" type="line"/>
+      <point x="653" y="0" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="143" y="20" type="line"/>
+      <point x="114" y="20" type="line"/>
+      <point x="114" y="46" type="line"/>
+      <point x="85" y="46" type="line"/>
+      <point x="85" y="70" type="line"/>
+      <point x="63" y="70" type="line"/>
+      <point x="63" y="138" type="line"/>
+      <point x="85" y="138" type="line"/>
+      <point x="85" y="162" type="line"/>
+      <point x="114" y="162" type="line"/>
+      <point x="114" y="184" type="line"/>
+      <point x="76" y="184" type="line"/>
+      <point x="76" y="211" type="line"/>
+      <point x="48" y="211" type="line"/>
+      <point x="48" y="268" type="line"/>
+      <point x="76" y="268" type="line"/>
+      <point x="76" y="297" type="line"/>
+      <point x="309" y="297" type="line"/>
+      <point x="309" y="332" type="line"/>
+      <point x="56" y="332" type="line"/>
+      <point x="56" y="360" type="line"/>
+      <point x="28" y="360" type="line"/>
+      <point x="28" y="437" type="line"/>
+      <point x="56" y="437" type="line"/>
+      <point x="56" y="465" type="line"/>
+      <point x="268" y="465" type="line"/>
+      <point x="268" y="527" type="line"/>
+      <point x="301" y="527" type="line"/>
+      <point x="301" y="555" type="line"/>
+      <point x="415" y="555" type="line"/>
+      <point x="415" y="527" type="line"/>
+      <point x="448" y="527" type="line"/>
+      <point x="448" y="465" type="line"/>
+    </contour>
+  </outline>
+</glyph>

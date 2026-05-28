@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssangtikeut-hang" format="2">
+  <advance width="750"/>
+  <unicode hex="3138"/>
+  <outline>
+    <contour>
+      <point x="681" y="660" type="line"/>
+      <point x="714" y="660" type="line"/>
+      <point x="714" y="557" type="line"/>
+      <point x="681" y="557" type="line"/>
+      <point x="681" y="524" type="line"/>
+      <point x="579" y="524" type="line"/>
+      <point x="579" y="209" type="line"/>
+      <point x="681" y="209" type="line"/>
+      <point x="681" y="176" type="line"/>
+      <point x="714" y="176" type="line"/>
+      <point x="714" y="73" type="line"/>
+      <point x="681" y="73" type="line"/>
+      <point x="681" y="40" type="line"/>
+      <point x="433" y="40" type="line"/>
+      <point x="433" y="73" type="line"/>
+      <point x="400" y="73" type="line"/>
+      <point x="400" y="660" type="line"/>
+      <point x="433" y="660" type="line"/>
+      <point x="433" y="693" type="line"/>
+      <point x="681" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="660" type="line"/>
+      <point x="364" y="660" type="line"/>
+      <point x="364" y="557" type="line"/>
+      <point x="331" y="557" type="line"/>
+      <point x="331" y="524" type="line"/>
+      <point x="219" y="524" type="line"/>
+      <point x="219" y="209" type="line"/>
+      <point x="331" y="209" type="line"/>
+      <point x="331" y="176" type="line"/>
+      <point x="364" y="176" type="line"/>
+      <point x="364" y="73" type="line"/>
+      <point x="331" y="73" type="line"/>
+      <point x="331" y="40" type="line"/>
+      <point x="73" y="40" type="line"/>
+      <point x="73" y="73" type="line"/>
+      <point x="40" y="73" type="line"/>
+      <point x="40" y="660" type="line"/>
+      <point x="73" y="660" type="line"/>
+      <point x="73" y="693" type="line"/>
+      <point x="331" y="693" type="line"/>
+    </contour>
+  </outline>
+</glyph>

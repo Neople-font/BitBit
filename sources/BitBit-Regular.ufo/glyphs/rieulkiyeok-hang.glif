@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rieulkiyeok-hang" format="2">
+  <advance width="780"/>
+  <unicode hex="313A"/>
+  <outline>
+    <contour>
+      <point x="436" y="688" type="line"/>
+      <point x="717" y="688" type="line"/>
+      <point x="717" y="655" type="line"/>
+      <point x="750" y="655" type="line"/>
+      <point x="750" y="73" type="line"/>
+      <point x="717" y="73" type="line"/>
+      <point x="717" y="40" type="line"/>
+      <point x="604" y="40" type="line"/>
+      <point x="604" y="73" type="line"/>
+      <point x="571" y="73" type="line"/>
+      <point x="571" y="509" type="line"/>
+      <point x="436" y="509" type="line"/>
+      <point x="436" y="542" type="line"/>
+      <point x="403" y="542" type="line"/>
+      <point x="403" y="655" type="line"/>
+      <point x="436" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="209" type="line"/>
+      <point x="341" y="209" type="line"/>
+      <point x="341" y="176" type="line"/>
+      <point x="375" y="176" type="line"/>
+      <point x="375" y="73" type="line"/>
+      <point x="341" y="73" type="line"/>
+      <point x="341" y="40" type="line"/>
+      <point x="70" y="40" type="line"/>
+      <point x="70" y="73" type="line"/>
+      <point x="37" y="73" type="line"/>
+      <point x="37" y="411" type="line"/>
+      <point x="70" y="411" type="line"/>
+      <point x="70" y="444" type="line"/>
+      <point x="219" y="444" type="line"/>
+      <point x="219" y="519" type="line"/>
+      <point x="70" y="519" type="line"/>
+      <point x="70" y="552" type="line"/>
+      <point x="37" y="552" type="line"/>
+      <point x="37" y="655" type="line"/>
+      <point x="70" y="655" type="line"/>
+      <point x="70" y="688" type="line"/>
+      <point x="341" y="688" type="line"/>
+      <point x="341" y="655" type="line"/>
+      <point x="375" y="655" type="line"/>
+      <point x="375" y="310" type="line"/>
+      <point x="341" y="310" type="line"/>
+      <point x="341" y="277" type="line"/>
+      <point x="192" y="277" type="line"/>
+    </contour>
+  </outline>
+</glyph>

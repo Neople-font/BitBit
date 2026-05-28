@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mieum-hang" format="2">
+  <advance width="750"/>
+  <unicode hex="3141"/>
+  <outline>
+    <contour>
+      <point x="239" y="503" type="line"/>
+      <point x="239" y="229" type="line"/>
+      <point x="495" y="229" type="line"/>
+      <point x="495" y="503" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="659" type="line"/>
+      <point x="93" y="692" type="line"/>
+      <point x="641" y="692" type="line"/>
+      <point x="641" y="659" type="line"/>
+      <point x="674" y="659" type="line"/>
+      <point x="674" y="73" type="line"/>
+      <point x="641" y="73" type="line"/>
+      <point x="641" y="40" type="line"/>
+      <point x="93" y="40" type="line"/>
+      <point x="93" y="73" type="line"/>
+      <point x="60" y="73" type="line"/>
+      <point x="60" y="659" type="line"/>
+    </contour>
+  </outline>
+</glyph>

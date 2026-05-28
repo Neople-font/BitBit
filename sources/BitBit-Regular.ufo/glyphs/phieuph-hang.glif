@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phieuph-hang" format="2">
+  <advance width="750"/>
+  <unicode hex="314D"/>
+  <outline>
+    <contour>
+      <point x="412" y="512" type="line"/>
+      <point x="329" y="512" type="line"/>
+      <point x="329" y="221" type="line"/>
+      <point x="412" y="221" type="line"/>
+    </contour>
+    <contour>
+      <point x="668" y="659" type="line"/>
+      <point x="701" y="659" type="line"/>
+      <point x="701" y="545" type="line"/>
+      <point x="668" y="545" type="line"/>
+      <point x="668" y="512" type="line"/>
+      <point x="591" y="512" type="line"/>
+      <point x="591" y="221" type="line"/>
+      <point x="668" y="221" type="line"/>
+      <point x="668" y="187" type="line"/>
+      <point x="701" y="187" type="line"/>
+      <point x="701" y="73" type="line"/>
+      <point x="668" y="73" type="line"/>
+      <point x="668" y="40" type="line"/>
+      <point x="73" y="40" type="line"/>
+      <point x="73" y="73" type="line"/>
+      <point x="40" y="73" type="line"/>
+      <point x="40" y="187" type="line"/>
+      <point x="73" y="187" type="line"/>
+      <point x="73" y="221" type="line"/>
+      <point x="150" y="221" type="line"/>
+      <point x="150" y="512" type="line"/>
+      <point x="73" y="512" type="line"/>
+      <point x="73" y="545" type="line"/>
+      <point x="40" y="545" type="line"/>
+      <point x="40" y="659" type="line"/>
+      <point x="73" y="659" type="line"/>
+      <point x="73" y="692" type="line"/>
+      <point x="668" y="692" type="line"/>
+    </contour>
+  </outline>
+</glyph>

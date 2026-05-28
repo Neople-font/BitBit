@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pieup-hang" format="2">
+  <advance width="750"/>
+  <unicode hex="3142"/>
+  <outline>
+    <contour>
+      <point x="493" y="342" type="line"/>
+      <point x="241" y="342" type="line"/>
+      <point x="241" y="227" type="line"/>
+      <point x="493" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="666" type="line"/>
+      <point x="674" y="666" type="line"/>
+      <point x="674" y="73" type="line"/>
+      <point x="640" y="73" type="line"/>
+      <point x="640" y="40" type="line"/>
+      <point x="93" y="40" type="line"/>
+      <point x="93" y="73" type="line"/>
+      <point x="60" y="73" type="line"/>
+      <point x="60" y="666" type="line"/>
+      <point x="93" y="666" type="line"/>
+      <point x="93" y="699" type="line"/>
+      <point x="207" y="699" type="line"/>
+      <point x="207" y="666" type="line"/>
+      <point x="241" y="666" type="line"/>
+      <point x="241" y="535" type="line"/>
+      <point x="493" y="535" type="line"/>
+      <point x="493" y="666" type="line"/>
+      <point x="526" y="666" type="line"/>
+      <point x="526" y="699" type="line"/>
+      <point x="640" y="699" type="line"/>
+    </contour>
+  </outline>
+</glyph>

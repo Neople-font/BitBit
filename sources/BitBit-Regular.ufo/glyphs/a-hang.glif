@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a-hang" format="2">
+  <advance width="800"/>
+  <unicode hex="314F"/>
+  <outline>
+    <contour>
+      <point x="383" y="750" type="line"/>
+      <point x="383" y="717" type="line"/>
+      <point x="415" y="717" type="line"/>
+      <point x="415" y="455" type="line"/>
+      <point x="547" y="455" type="line"/>
+      <point x="547" y="422" type="line"/>
+      <point x="580" y="422" type="line"/>
+      <point x="580" y="328" type="line"/>
+      <point x="547" y="328" type="line"/>
+      <point x="547" y="295" type="line"/>
+      <point x="415" y="295" type="line"/>
+      <point x="415" y="33" type="line"/>
+      <point x="383" y="33" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="33" type="line"/>
+      <point x="237" y="33" type="line"/>
+      <point x="237" y="717" type="line"/>
+      <point x="270" y="717" type="line"/>
+      <point x="270" y="750" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wa-hang" format="2">
+  <advance width="820"/>
+  <unicode hex="3158"/>
+  <outline>
+    <contour>
+      <point x="502" y="198" type="line"/>
+      <point x="502" y="165" type="line"/>
+      <point x="535" y="165" type="line"/>
+      <point x="535" y="73" type="line"/>
+      <point x="502" y="73" type="line"/>
+      <point x="502" y="40" type="line"/>
+      <point x="51" y="40" type="line"/>
+      <point x="51" y="73" type="line"/>
+      <point x="18" y="73" type="line"/>
+      <point x="18" y="165" type="line"/>
+      <point x="51" y="165" type="line"/>
+      <point x="51" y="198" type="line"/>
+      <point x="194" y="198" type="line"/>
+      <point x="194" y="421" type="line"/>
+      <point x="227" y="421" type="line"/>
+      <point x="227" y="454" type="line"/>
+      <point x="326" y="454" type="line"/>
+      <point x="326" y="421" type="line"/>
+      <point x="359" y="421" type="line"/>
+      <point x="359" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="698" y="750" type="line"/>
+      <point x="698" y="717" type="line"/>
+      <point x="730" y="717" type="line"/>
+      <point x="730" y="455" type="line"/>
+      <point x="772" y="455" type="line"/>
+      <point x="772" y="422" type="line"/>
+      <point x="805" y="422" type="line"/>
+      <point x="805" y="328" type="line"/>
+      <point x="772" y="328" type="line"/>
+      <point x="772" y="295" type="line"/>
+      <point x="730" y="295" type="line"/>
+      <point x="730" y="33" type="line"/>
+      <point x="698" y="33" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="595" y="33" type="line"/>
+      <point x="562" y="33" type="line"/>
+      <point x="562" y="717" type="line"/>
+      <point x="595" y="717" type="line"/>
+      <point x="595" y="750" type="line"/>
+    </contour>
+  </outline>
+</glyph>

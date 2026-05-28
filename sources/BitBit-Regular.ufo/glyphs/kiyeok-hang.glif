@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kiyeok-hang" format="2">
+  <advance width="750"/>
+  <unicode hex="3131"/>
+  <outline>
+    <contour>
+      <point x="651" y="689" type="line"/>
+      <point x="651" y="656" type="line"/>
+      <point x="684" y="656" type="line"/>
+      <point x="684" y="73" type="line"/>
+      <point x="651" y="73" type="line"/>
+      <point x="651" y="40" type="line"/>
+      <point x="518" y="40" type="line"/>
+      <point x="518" y="73" type="line"/>
+      <point x="485" y="73" type="line"/>
+      <point x="485" y="510" type="line"/>
+      <point x="83" y="510" type="line"/>
+      <point x="83" y="543" type="line"/>
+      <point x="50" y="543" type="line"/>
+      <point x="50" y="656" type="line"/>
+      <point x="83" y="656" type="line"/>
+      <point x="83" y="689" type="line"/>
+    </contour>
+  </outline>
+</glyph>

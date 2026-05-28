@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackuppointingtriangle" format="2">
+  <advance width="900"/>
+  <unicode hex="25B2"/>
+  <outline>
+    <contour>
+      <point x="25" y="178" type="line"/>
+      <point x="70" y="178" type="line"/>
+      <point x="70" y="241" type="line"/>
+      <point x="118" y="241" type="line"/>
+      <point x="118" y="308" type="line"/>
+      <point x="168" y="308" type="line"/>
+      <point x="168" y="379" type="line"/>
+      <point x="219" y="379" type="line"/>
+      <point x="219" y="443" type="line"/>
+      <point x="268" y="443" type="line"/>
+      <point x="268" y="509" type="line"/>
+      <point x="319" y="509" type="line"/>
+      <point x="319" y="573" type="line"/>
+      <point x="365" y="573" type="line"/>
+      <point x="365" y="634" type="line"/>
+      <point x="417" y="634" type="line"/>
+      <point x="417" y="693" type="line"/>
+      <point x="492" y="693" type="line"/>
+      <point x="492" y="634" type="line"/>
+      <point x="544" y="634" type="line"/>
+      <point x="544" y="573" type="line"/>
+      <point x="590" y="573" type="line"/>
+      <point x="590" y="509" type="line"/>
+      <point x="641" y="509" type="line"/>
+      <point x="641" y="443" type="line"/>
+      <point x="690" y="443" type="line"/>
+      <point x="690" y="379" type="line"/>
+      <point x="741" y="379" type="line"/>
+      <point x="741" y="308" type="line"/>
+      <point x="791" y="308" type="line"/>
+      <point x="791" y="241" type="line"/>
+      <point x="839" y="241" type="line"/>
+      <point x="839" y="178" type="line"/>
+      <point x="883" y="178" type="line"/>
+      <point x="883" y="95" type="line"/>
+      <point x="25" y="95" type="line"/>
+    </contour>
+  </outline>
+</glyph>

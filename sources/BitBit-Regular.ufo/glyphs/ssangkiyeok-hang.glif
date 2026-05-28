@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssangkiyeok-hang" format="2">
+  <advance width="800"/>
+  <unicode hex="3132"/>
+  <outline>
+    <contour>
+      <point x="433" y="688" type="line"/>
+      <point x="711" y="688" type="line"/>
+      <point x="711" y="655" type="line"/>
+      <point x="744" y="655" type="line"/>
+      <point x="744" y="73" type="line"/>
+      <point x="711" y="73" type="line"/>
+      <point x="711" y="40" type="line"/>
+      <point x="598" y="40" type="line"/>
+      <point x="598" y="73" type="line"/>
+      <point x="565" y="73" type="line"/>
+      <point x="565" y="509" type="line"/>
+      <point x="433" y="509" type="line"/>
+      <point x="433" y="542" type="line"/>
+      <point x="400" y="542" type="line"/>
+      <point x="400" y="655" type="line"/>
+      <point x="433" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="63" y="688" type="line"/>
+      <point x="341" y="688" type="line"/>
+      <point x="341" y="655" type="line"/>
+      <point x="374" y="655" type="line"/>
+      <point x="374" y="73" type="line"/>
+      <point x="341" y="73" type="line"/>
+      <point x="341" y="40" type="line"/>
+      <point x="228" y="40" type="line"/>
+      <point x="228" y="73" type="line"/>
+      <point x="195" y="73" type="line"/>
+      <point x="195" y="509" type="line"/>
+      <point x="63" y="509" type="line"/>
+      <point x="63" y="542" type="line"/>
+      <point x="30" y="542" type="line"/>
+      <point x="30" y="655" type="line"/>
+      <point x="63" y="655" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eu-hang" format="2">
+  <advance width="800"/>
+  <unicode hex="3161"/>
+  <outline>
+    <contour>
+      <point x="28" y="365" type="line"/>
+      <point x="61" y="365" type="line"/>
+      <point x="61" y="398" type="line"/>
+      <point x="735" y="398" type="line"/>
+      <point x="735" y="365" type="line"/>
+      <point x="768" y="365" type="line"/>
+      <point x="768" y="273" type="line"/>
+      <point x="735" y="273" type="line"/>
+      <point x="735" y="240" type="line"/>
+      <point x="61" y="240" type="line"/>
+      <point x="61" y="273" type="line"/>
+      <point x="28" y="273" type="line"/>
+    </contour>
+  </outline>
+</glyph>

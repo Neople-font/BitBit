@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khieukh-hang" format="2">
+  <advance width="750"/>
+  <unicode hex="314B"/>
+  <outline>
+    <contour>
+      <point x="83" y="243" type="line"/>
+      <point x="83" y="276" type="line"/>
+      <point x="50" y="276" type="line"/>
+      <point x="50" y="389" type="line"/>
+      <point x="83" y="389" type="line"/>
+      <point x="83" y="422" type="line"/>
+      <point x="485" y="422" type="line"/>
+      <point x="485" y="513" type="line"/>
+      <point x="83" y="513" type="line"/>
+      <point x="83" y="546" type="line"/>
+      <point x="50" y="546" type="line"/>
+      <point x="50" y="659" type="line"/>
+      <point x="83" y="659" type="line"/>
+      <point x="83" y="692" type="line"/>
+      <point x="651" y="692" type="line"/>
+      <point x="651" y="659" type="line"/>
+      <point x="684" y="659" type="line"/>
+      <point x="684" y="73" type="line"/>
+      <point x="651" y="73" type="line"/>
+      <point x="651" y="40" type="line"/>
+      <point x="518" y="40" type="line"/>
+      <point x="518" y="73" type="line"/>
+      <point x="485" y="73" type="line"/>
+      <point x="485" y="243" type="line"/>
+    </contour>
+  </outline>
+</glyph>

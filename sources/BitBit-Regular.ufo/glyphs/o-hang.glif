@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o-hang" format="2">
+  <advance width="800"/>
+  <unicode hex="3157"/>
+  <outline>
+    <contour>
+      <point x="737" y="201" type="line"/>
+      <point x="737" y="168" type="line"/>
+      <point x="770" y="168" type="line"/>
+      <point x="770" y="76" type="line"/>
+      <point x="737" y="76" type="line"/>
+      <point x="737" y="43" type="line"/>
+      <point x="63" y="43" type="line"/>
+      <point x="63" y="76" type="line"/>
+      <point x="30" y="76" type="line"/>
+      <point x="30" y="168" type="line"/>
+      <point x="63" y="168" type="line"/>
+      <point x="63" y="201" type="line"/>
+      <point x="310" y="201" type="line"/>
+      <point x="310" y="439" type="line"/>
+      <point x="343" y="439" type="line"/>
+      <point x="343" y="472" type="line"/>
+      <point x="457" y="472" type="line"/>
+      <point x="457" y="439" type="line"/>
+      <point x="490" y="439" type="line"/>
+      <point x="490" y="201" type="line"/>
+    </contour>
+  </outline>
+</glyph>

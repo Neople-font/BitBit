@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thieuth-hang" format="2">
+  <advance width="750"/>
+  <unicode hex="314C"/>
+  <outline>
+    <contour>
+      <point x="651" y="219" type="line"/>
+      <point x="651" y="186" type="line"/>
+      <point x="684" y="186" type="line"/>
+      <point x="684" y="73" type="line"/>
+      <point x="651" y="73" type="line"/>
+      <point x="651" y="40" type="line"/>
+      <point x="83" y="41" type="line"/>
+      <point x="83" y="74" type="line"/>
+      <point x="50" y="74" type="line"/>
+      <point x="50" y="660" type="line"/>
+      <point x="83" y="660" type="line"/>
+      <point x="83" y="693" type="line"/>
+      <point x="651" y="693" type="line"/>
+      <point x="651" y="660" type="line"/>
+      <point x="684" y="660" type="line"/>
+      <point x="684" y="547" type="line"/>
+      <point x="651" y="547" type="line"/>
+      <point x="651" y="514" type="line"/>
+      <point x="249" y="514" type="line"/>
+      <point x="249" y="456" type="line"/>
+      <point x="651" y="456" type="line"/>
+      <point x="651" y="423" type="line"/>
+      <point x="684" y="423" type="line"/>
+      <point x="684" y="310" type="line"/>
+      <point x="651" y="310" type="line"/>
+      <point x="651" y="277" type="line"/>
+      <point x="249" y="277" type="line"/>
+      <point x="249" y="219" type="line"/>
+    </contour>
+  </outline>
+</glyph>

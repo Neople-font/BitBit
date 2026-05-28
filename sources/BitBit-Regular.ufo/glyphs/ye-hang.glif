@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ye-hang" format="2">
+  <advance width="800"/>
+  <unicode hex="3156"/>
+  <outline>
+    <contour>
+      <point x="625" y="33" type="line"/>
+      <point x="625" y="0" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="510" y="33" type="line"/>
+      <point x="477" y="33" type="line"/>
+      <point x="477" y="717" type="line"/>
+      <point x="510" y="717" type="line"/>
+      <point x="510" y="750" type="line"/>
+      <point x="625" y="750" type="line"/>
+      <point x="625" y="717" type="line"/>
+      <point x="658" y="717" type="line"/>
+      <point x="658" y="33" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="160" type="line"/>
+      <point x="200" y="193" type="line"/>
+      <point x="167" y="193" type="line"/>
+      <point x="167" y="287" type="line"/>
+      <point x="200" y="287" type="line"/>
+      <point x="200" y="320" type="line"/>
+      <point x="269" y="320" type="line"/>
+      <point x="269" y="431" type="line"/>
+      <point x="200" y="431" type="line"/>
+      <point x="200" y="464" type="line"/>
+      <point x="167" y="464" type="line"/>
+      <point x="167" y="558" type="line"/>
+      <point x="200" y="558" type="line"/>
+      <point x="200" y="591" type="line"/>
+      <point x="269" y="591" type="line"/>
+      <point x="269" y="717" type="line"/>
+      <point x="302" y="717" type="line"/>
+      <point x="302" y="750" type="line"/>
+      <point x="417" y="750" type="line"/>
+      <point x="417" y="717" type="line"/>
+      <point x="450" y="717" type="line"/>
+      <point x="450" y="33" type="line"/>
+      <point x="417" y="33" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="302" y="33" type="line"/>
+      <point x="269" y="33" type="line"/>
+      <point x="269" y="160" type="line"/>
+    </contour>
+  </outline>
+</glyph>
