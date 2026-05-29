@@ -7,11 +7,11 @@
   <key>capHeight</key>
   <integer>751</integer>
   <key>copyright</key>
-  <string>Copyright © 2022 NEOPLE Inc. All Rights Reserved.</string>
+  <string>Copyright 2022 The Bit Bit Project Authors (https://github.com/Neople-font/BitBit)</string>
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
-  <string>BitBit</string>
+  <string>Bit Bit</string>
   <key>italicAngle</key>
   <real>0</real>
   <key>openTypeGaspRangeRecords</key>
@@ -52,24 +52,22 @@
   <integer>0</integer>
   <key>openTypeNameDesigner</key>
   <string>Kim So-Yeon</string>
-  <key>openTypeNameDesignerURL</key>
-  <string>https://www.neople.co.kr/</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/OFL</string>
+  <string>https://openfontlicense.org</string>
   <key>openTypeNameManufacturer</key>
   <string>NEOPLE Inc.</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://www.neople.co.kr/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>BitBit</string>
+  <string>Bit Bit</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
   <string>1.000;BitBit-Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000;</string>
+  <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -118,7 +116,6 @@
   <integer>600</integer>
   <key>openTypeOS2Type</key>
   <array>
-    <integer>3</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
   <integer>800</integer>
@@ -158,13 +155,11 @@
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>styleMapFamilyName</key>
-  <string>BitBit</string>
+  <string>Bit Bit</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
-  <key>trademark</key>
-  <string>BitBit is a trademark of NEOPLE Inc.</string>
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
